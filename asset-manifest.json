@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.21e5293b.css",
+    "main.js": "/static/js/main.4e50658a.js",
+    "static/media/rubik-v28-latin-500.ttf": "/static/media/rubik-v28-latin-500.e09f90d1d19f09b714ad.ttf",
+    "static/media/rubik-v28-latin-regular.ttf": "/static/media/rubik-v28-latin-regular.b47f06b403213a279364.ttf",
+    "static/media/rubik-v28-latin-300.ttf": "/static/media/rubik-v28-latin-300.8f172b023b5d74733b38.ttf",
+    "static/media/rubik-v28-latin-500.woff2": "/static/media/rubik-v28-latin-500.2b3f7018f7be28461823.woff2",
+    "static/media/rubik-v28-latin-regular.woff2": "/static/media/rubik-v28-latin-regular.5903a23647de7c1c373f.woff2",
+    "static/media/rubik-v28-latin-300.woff2": "/static/media/rubik-v28-latin-300.53ba8a9c0d2f86f9cbff.woff2",
+    "static/media/deleteicon.svg": "/static/media/deleteicon.364bf68fb5b6c7a75bbf06f754228fc8.svg",
+    "static/media/editicon.svg": "/static/media/editicon.5f8fb7d627f2f0b6cb40440cf1f69787.svg",
+    "index.html": "/index.html",
+    "static/media/cancelicon.svg": "/static/media/cancelicon.859dcd84fd2792673041acd8f3650107.svg",
+    "static/media/check-icon.svg": "/static/media/check-icon.a0465ed93b0416e7dfa92baeec751706.svg",
+    "main.21e5293b.css.map": "/static/css/main.21e5293b.css.map",
+    "main.4e50658a.js.map": "/static/js/main.4e50658a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.21e5293b.css",
+    "static/js/main.4e50658a.js"
+  ]
+}
